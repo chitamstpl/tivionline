@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 channelId="-1" tvg-logo="http://data.sinhvienit.net/2014/T02/img/SinhVienIT.Net---download(3).jpg" , Hậu Giang
-#EXTBG:http://data.sinhvienit.net/2014/T02/img/SinhVienIT.Net---download(3).jpg
 http://htqjrpsv.cdnviet.com:1933/htjzzsg/_htv_/hau_giang.360p.stream/playlist.m3u8?t=24a443f2e15fe82c26507a970882c366&e=1453821842
 #EXTINF:-1 channelId="-1" tvg-logo="http://thbl.vn/btv.png" , Bạc liêu
 atv://antenna:3/dvb/2
