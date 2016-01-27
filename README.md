@@ -1,1 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1023992,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
+http://htqjrpsv.cdnviet.com:1933/htjzzsg/_htv_/dongthap.360p.stream/chunklist_w2006673450.m3u8?t=7c62f1856eda3366510c54e9e5cde040&e=1453934027
 
